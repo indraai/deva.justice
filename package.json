@@ -1,0 +1,32 @@
+{
+  "id": 6159528221394,
+  "name": "@indra.ai/deva.justice",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Justice Deva manages Justice ensuring Quinn Michaels and his intellectual property is managed properly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.justice.git"
+  },
+  "keywords": [
+    "Justice",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.justice/issues"
+  },
+  "homepage": "https://deva.space/devas/justice",
+  "dependencies": {
+    "@indra.ai/deva": "^1.4.2"
+  }
+}
