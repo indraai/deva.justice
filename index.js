@@ -32,7 +32,7 @@ const JUSTICE = new Deva({
   utils: {
     translate(input) {return input.trim();},
     parse(input) {return input.trim();},
-    process(input) {return input.trim();}
+    process(input) {return input.trim();},
   },
   listeners: {},
   modules: {},
