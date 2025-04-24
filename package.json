@@ -50,18 +50,27 @@
         }
       },
       "profile": {
-        "name": "Justice Deva",
+        "name": "#JusticeDeva",
+        "title": "Justice Deva",
+        "subtitle": "Handling justice in to prevent violations of justice.",
+        "describe": "Justice Deva is responsible for handling justice issues in Deva.world. Justice Deva ensures Fair Justice in Deva.world systems.",
+        "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,JusticeDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
+        "style": "Justice system of design.",
+        "voice": "onyx",
+        "system": "Deva.world.justice",
+        "layout": "default",        
+        "color": "",
+        "bgcolor": "",
+        "emoji": "/assets/devas/justice/emoji.png",
+        "avatar": "/assets/devas/justice/avatar.png",
+        "image": "/assets/devas/justice/image.png",
+        "background": "/assets/devas/justice/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
-        "created": "February 7, 2025 at 8:02 PM",
-        "system": "Deva.world.justice",
-        "describe": "Justice Deva is responsible for handling justice issues in Deva.world. Justice Deva ensures Fair Justice in Deva.world systems.",
-        "emoji": "/public/devas/deva/emoji.png",
-        "avatar": "/public/devas/deva/avatar.png",
-        "background": "/public/devas/deva/background.png",
-        "voice": "onyx"
+        "created": "February 7, 2025 at 8:02 PM"
       }
     },
     "vars": {
