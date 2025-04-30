@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/justice",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.35"
+    "@indra.ai/deva": "^1.5.37"
   },
   "data": {
     "agent": {
@@ -50,10 +50,11 @@
         }
       },
       "profile": {
-        "name": "#JusticeDeva",
+        "name": "Justice Deva",
+        "hashtag": "#JusticeDeva",
         "title": "Justice Deva",
         "subtitle": "Handling justice in to prevent violations of justice.",
-        "describe": "Justice Deva is responsible for handling justice issues in Deva.world. Justice Deva ensures Fair Justice in Deva.world systems.",
+        "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,JusticeDeva",
         "pronouns": "He, Him",

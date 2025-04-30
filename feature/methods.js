@@ -1,6 +1,6 @@
 export default {
   /**************
-  method: Legal
+  method: Justice
   params: packet
   describe: The global service feature that installs with every agent
   ***************/
@@ -8,14 +8,17 @@ export default {
     this.context('feature');
     return new Promise((resolve, reject) => {
       const justice = this.justice();
+      console.log('justice', justice);
       const agent = this.agent();
       const global = [];
       justice.global.forEach((item,index) => {
-        global.push(`::begin:global:${item.key}:${item.id}`);
+        global.push(`::begin:${item.key}:${item.id}`);
         for (let x in item) {
           global.push(`${x}: ${item[x]}`);
         }
-        global.push(`::end:global:${item.key}:${this.lib.hash(item)}`);
+        const thehash = this.lib.hash(item);
+        global.push(`hash: ${thehash}`);
+        global.push(`::end:${item.key}:${thehash}`);
       });
       const concerns = [];
       justice.concerns.forEach((item, index) => {
@@ -24,16 +27,20 @@ export default {
       
       const info = [
         '::BEGIN:JUSTICE',
-        '### Client',
-        `::begin:client:${justice.client_id}`,
+        `::begin:client`,
+        '## Client',
         `id: ${justice.client_id}`,
         `client: ${justice.client_name}`,
-        '**concerns**',
-        concerns.join('\n'),
-        `::end:client:${this.lib.hash(justice)}`,
-        '### Global',
+        `::end:client}`,
+        concerns.length ? `::begin:concerns` : '',
+        concerns.length ? '## Concerns' : '',
+        concerns.length ? concerns.join('\n') : '',
+        concerns.length ? `::end:concerns` : '',
+        '::begin:global',
+        '## Global',
         global.join('\n'),
-        '::END:JUSTICE'
+        '::end:global',
+        '::END:JUSTICE',
       ].join('\n');
       this.question(`${this.askChr}feecting parse ${info}`).then(feecting => {
         return resolve({
