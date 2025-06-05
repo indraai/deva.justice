@@ -8,7 +8,6 @@ export default {
     this.context('feature');
     return new Promise((resolve, reject) => {
       const justice = this.justice();
-      console.log('justice', justice);
       const agent = this.agent();
       const global = [];
       justice.global.forEach((item,index) => {
