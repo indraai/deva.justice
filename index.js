@@ -32,7 +32,14 @@ const JUSTICE = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();},
   },
-  listeners: {},
+  listeners: {
+    'devacore:question'(packet) {
+      const echo = this.methods.echo('defense', 'q', packet);
+    },
+    'devacore:answer'(packet) {
+      const echo = this.methods.echo('defense', 'a', packet);
+    }    
+  },
   modules: {},
   deva: {},
   func: {},
