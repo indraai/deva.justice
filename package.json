@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/justice",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.47"
+    "@indra.ai/deva": "^1.6.48"
   },
   "data": {
     "agent": {
