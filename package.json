@@ -1,11 +1,40 @@
 {
-  "id": 6159528221394,
+  "id": "71153924143258087294",
   "name": "@indra.ai/deva.justice",
   "version": "0.0.73",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
-  "description": "The Justice Deva manages Justice ensuring Quinn Michaels and his intellectual property is managed properly.",
+  "license": "VLA:71153924143258087294 LICENSE.md",
+  "VLA": {
+    "uid": "71153924143258087294",
+    "time": 1757953421966,
+    "date": "Monday, September 15, 2025 - 9:23:41 AM",
+    "client": "OllqfYj7iGRhFTlVEFp3tg80jeU7qyWtBNlK9yVB7Tw=",
+    "agent": "pZUukT5+0hw3COMxxEqpmpzY+tINNWIsoQu1blscZE0=",
+    "pkg": "mrup8Mq7zFZCb4etI4yUEwn3KMiFwbP/UMJyzOSUXAg=",
+    "machine": "k91mKnzczabfnHmC4CiSpvKxXnFqzNti1t/RV38j2jU=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "DHzxqqkJDM21gA9vmC4ARQ==",
+    "sha256": "QhFCOIKCsBNpGAPDZcLgrbZg01HeXIpu67zI0urXKcs=",
+    "sha512": "+Yh7VkX1KlVj8DfKS/zLqaDVzOqZOj1Y1Br/BQajZS09HXbW72bJCfl6aX3ZwcAu1fTHn5N4wpH80jPcOO8Zsw=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Justice Deva manages Justice ensuring Quinn A Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -79,7 +108,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⚖️ Ready for Justice Oversight.",
+        "ready": "Ready for Justice Courts",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
