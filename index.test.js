@@ -1,5 +1,10 @@
-// Copyright (c):year: :copyright:
-// :name: test file
+"use strict";
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:71153924143258087294 LICENSE.md
+
+// Justice Deva Test File
+
 
 const {expect} = require('chai')
 const JusticeDeva = require('./index.js');
