@@ -42,11 +42,11 @@ const JUSTICE = new Deva({
   listeners: {
     // log the exit packet when the deva exits the system
     'devacore:exit'(packet) {
-      this.func.write_log('exit', packet);
+      this.func.write_log('exit', this.lib.copy(packet));
     },
     // log the answer on complete of the question and answer
     'devacore:complete'(packet) {
-      this.func.write_log('complete', packet);
+      this.func.write_log('complete', this.lib.copy(packet));
     },
   },
   modules: {
