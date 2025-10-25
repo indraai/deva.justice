@@ -52,14 +52,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.justice/issues"
   },
-  "homepage": "https://deva.space/devas/justice",
+  "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.12.0",
+    "@indra.ai/deva": "^1.17.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -104,6 +106,8 @@
         "background": "/assets/devas/justice/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
+        "status": "unofficial",
+        "uid_warning": "⚖️ Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed. The only friend who follows men even after death is justice; for everything else is lost at the same time when the body perishes.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM"
       }
