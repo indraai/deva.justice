@@ -61,7 +61,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0",
+    "@indra.ai/deva": "^1.20.1",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -106,8 +106,7 @@
         "background": "/assets/devas/justice/background.png",
         "owner": "Quinn Michaels",
         "creator": "Quinn Michaels",
-        "status": "unofficial",
-        "uid_warning": "⚖️ Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed. The only friend who follows men even after death is justice; for everything else is lost at the same time when the body perishes.",
+        "warning": "⚖️ Where justice is slain by injustice, and truth by falsehood, the members of the court, who look on with indifference, are doomed to destruction themselves. Those members of a court who, after having entered it, sit mute and meditative, and do not speak when the occasion arises, are liars all of them.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM"
       }
