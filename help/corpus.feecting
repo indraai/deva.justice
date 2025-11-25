@@ -7,5 +7,7 @@
 
 {{profile}}
 
-copyright: ©2025 Quinn Michaels
+talk: #license help main:license
+
+copyright: {{profile.copyright}}
 ::END:MAIN

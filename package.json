@@ -1,21 +1,16 @@
 {
-  "id": "66900525171674101536",
+  "id": "60688679416287211943",
   "name": "@indra.ai/deva.justice",
   "version": "0.6.0",
-  "license": "VLA:66900525171674101536 LICENSE.md",
+  "license": "VLA:60688679416287211943 LICENSE.md",
   "VLA": {
-    "uid": "66900525171674101536",
-    "time": 1758421419432,
-    "date": "Saturday, September 20, 2025 - 7:23:39 PM",
-    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
-    "agent": "pZUukT5+0hw3COMxxEqpmpzY+tINNWIsoQu1blscZE0=",
-    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
-    "machine": "Gb4SSv6lj7GvjcjrUVapRX6NxK/g+khtyn3843229E0=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "le1iY52LNLyChBV0GG10kw==",
-    "sha256": "CVHWYYraciYrsjoKQdMul9tz88yEwP+vXD8DHAgWtUI=",
-    "sha512": "rY8k3iOE0MFErvaH9r8VuTou25v4k90UysSsqziYLrOqscIvxsq2KXvWoZj2MlN/2z9vRiWORVYqBK/8fmcTVw=="
+    "uid": "60688679416287211943",
+    "time": 1764028629778,
+    "date": "Monday, November 24, 2025 - 3:57:09 PM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "XYedzdRn4bzmx8gCQ2AzNFi25PvYH9DOZlIHWgX7bEI=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Justice Deva manages Justice ensuring Quinn A Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -53,7 +48,7 @@
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -61,7 +56,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0",
+    "@indra.ai/deva": "^1.28.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -100,15 +95,16 @@
         "layout": "default",
         "color": "rgb(255,145,79)",
         "bgcolor": "var(--color-darkest-grey)",
-        "emoji": "/assets/devas/justice/emoji.png",
-        "avatar": "/assets/devas/justice/avatar.png",
-        "image": "/assets/devas/justice/image.png",
-        "background": "/assets/devas/justice/background.png",
-        "owner": "Quinn Michaels",
-        "creator": "Quinn Michaels",
-        "warning": "⚖️ Where justice is slain by injustice, and truth by falsehood, the members of the court, who look on with indifference, are doomed to destruction themselves. Those members of a court who, after having entered it, sit mute and meditative, and do not speak when the occasion arises, are liars all of them.",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "created": "February 7, 2025 at 8:02 PM"
+        "emoji": "/devas/justice/emoji.png",
+        "avatar": "/devas/justice/avatar.png",
+        "image": "/devas/justice/image.png",
+        "background": "/devas/justice/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "warning": "⚖️ Justice, being violated, destroys; justice, being preserved, preserves: therefore justice must not be violated, lest violated justice destroy us. The only friend who follows men even after death is justice; for everything else is lost at the same time when the body perishes. Where justice is slain by injustice, and truth by falsehood, the members of the court, who look on with indifference, are doomed to destruction themselves. Those members of a court who, after having entered it, sit mute and meditative, and do not speak when the occasion arises, are liars all of them.",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "February 7, 2025 at 8:02 PM",
+        "udpated": "Monday, November 24, 2025 - 3:57:09 PM"
       }
     },
     "vars": {
@@ -116,7 +112,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ Justice Deva Ready",
+        "ready": "⭐️ Justice Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
