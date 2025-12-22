@@ -10,4 +10,4 @@
 talk: #license help main:license
 
 copyright: {{profile.copyright}}
-::END:MAIN
+::END:MAINsure
