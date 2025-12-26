@@ -6,6 +6,8 @@
 
 // Justice Deva
 import Deva from '@indra.ai/deva';
+import fbi from '@indra.ai/deva.fbi';
+
 import { MongoClient, ObjectId } from 'mongodb';
 
 import pkg from './package.json' with {type:'json'};
@@ -52,6 +54,9 @@ const JUSTICE = new Deva({
   },
   modules: {
     client: false,
+  },
+  devas: {
+    fbi,
   },
   func: {
     /**************

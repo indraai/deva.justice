@@ -57,6 +57,7 @@
   "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva.fbi": "^0.4.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -87,7 +88,7 @@
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,JusticeDeva",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #JusticeDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Justice system of design.",
@@ -102,7 +103,7 @@
         "background": "/devas/justice/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "⚖️ Justice, being violated, destroys; justice, being preserved, preserves: therefore justice must not be violated, lest violated justice destroy us. The only friend who follows men even after death is justice; for everything else is lost at the same time when the body perishes. Those members of a court who, after having entered it, sit mute and meditative, and do not speak when the occasion arises, are liars all of them. In the double of that sum which a defendant falsely denies or on which the plaintiff falsely declares, shall those two offending against justice be fined.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}}️ {{profile.name}} says #Justice being #Violated #Destroys. #Justice being #Preserved, #Preserves. Therefore #Justice must not be #Violated, lest #Violated #Justice #DestroyUs. The only #Friend who follows men even #AfterDeath is #Justice. For #Everything else is #Lost at the same time when the #Body #Perishes. Those #Members of a #Court who sit #Mute and #Meditative, and #DoNotSpeak when the #OccasionArises, are #Liars #AllOfThem. It is #Double of that sum which a #Defendant falsely denies, or on which the #Plaintiff #Falsely #Declares, shall those two #Offending against #Justice be #Fined. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "udpated": "Monday, November 24, 2025 - 3:57:09 PM"
