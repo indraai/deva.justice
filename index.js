@@ -33,7 +33,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const JUSTICE = new Deva({
+const JusticeDeva = new Deva({
   info,
   agent,
   vars,
@@ -110,4 +110,4 @@ const JUSTICE = new Deva({
     return reject(err);
   }
 });
-export default JUSTICE
+export default JusticeDeva
