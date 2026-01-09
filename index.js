@@ -92,12 +92,15 @@ const JusticeDeva = new Deva({
     
     this.state('get', `mongo:global:${data.id.uid}`);
     const {uri,database, log} = this.justice().global.mongo;
+
     this.state('set', `mongo:client:${data.id.uid}`);
     this.modules.client = new MongoClient(uri);
+
     this.state('set', `mongo:database:${data.id.uid}`);
-    this.vars.database = database;
+    this.vars.database = `${database}-${VLA.uid}`;
+
     this.state('set', `mongo:log:${data.id.uid}`);
-    this.vars.log = log;
+    this.vars.log = `${log}-${VLA.uid}`;
 
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     this.action('resolve', `onReady:${data.id.uid}`);        
