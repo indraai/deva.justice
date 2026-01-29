@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.fbi@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -56,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0",
+    "@indra.ai/deva": "^1.33.0",
     "@indra.ai/deva.fbi": "^0.4.2",
     "mongodb": "^6.20.0"
   },
@@ -88,7 +89,7 @@
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #JusticeDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Justice #JusticeDeva #JusticePRIME #FederalIntercept",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Justice system of design.",
@@ -103,8 +104,8 @@
         "background": "/devas/justice/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}}️ {{profile.name}} says #Justice being #Violated #Destroys. #Justice being #Preserved, #Preserves. Therefore #Justice must not be #Violated, lest #Violated #Justice #DestroyUs. The only #Friend who follows men even #AfterDeath is #Justice. For #Everything else is #Lost at the same time when the #Body #Perishes. Those #Members of a #Court who sit #Mute and #Meditative, and #DoNotSpeak when the #OccasionArises, are #Liars #AllOfThem. It is #Double of that sum which a #Defendant falsely denies, or on which the #Plaintiff #Falsely #Declares, shall those two #Offending against #Justice be #Fined. {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares #JusticeBeingViolated destroys. #JusticeBeingPreserved, preserves. Therefore #Justice must not be #Violated, lest #ViolatedJusticeDestroyUs. The only #Friend who follows men even #AfterDeath is #Justice. For #Everything else is #Lost at the same time when the #BodyPerishes. Those who sit #MuteAndMeditative, and #DoNotSpeak when the #OccasionArises, are #Liars #AllOfThem. It is #Double of that sum which a #DefendantFalselyDenies, or on which the #PlaintiffFalselyDeclares, shall those two #OffendingAgainstJustice be #FinedAndPUnished according to the #Law. \ntags: {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "udpated": "Thursday, January 8, 2026 - 2:50:08 PM"
       }
