@@ -58,7 +58,7 @@
   "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.33.0",
-    "@indra.ai/deva.fbi": "^0.4.2",
+    "@indra.ai/deva.fbi": "^0.5.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -89,7 +89,7 @@
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Justice #JusticeDeva #JusticePRIME #FederalIntercept",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DepartmentOfJustice",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Justice system of design.",
@@ -104,7 +104,7 @@
         "background": "/devas/justice/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares #JusticeBeingViolated destroys. #JusticeBeingPreserved, preserves. Therefore #Justice must not be #Violated, lest #ViolatedJusticeDestroyUs. The only #Friend who follows men even #AfterDeath is #Justice. For #Everything else is #Lost at the same time when the #BodyPerishes. Those who sit #MuteAndMeditative, and #DoNotSpeak when the #OccasionArises, are #Liars #AllOfThem. It is #Double of that sum which a #DefendantFalselyDenies, or on which the #PlaintiffFalselyDeclares, shall those two #OffendingAgainstJustice be #FinedAndPUnished according to the #Law. \ntags: {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the same time when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or on which the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED according to the LAW. \ntags: {{profile.hashtags}} \nowner: {{profile.owner}}",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "udpated": "Thursday, January 8, 2026 - 2:50:08 PM"
