@@ -56,7 +56,7 @@ const JusticeDeva = new Deva({
     client: false,
   },
   devas: {
-    fbi,
+    // fbi,
   },
   func: {
     /**************

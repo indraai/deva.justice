@@ -57,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.1",
+    "@indra.ai/deva": "^1.35.0",
     "@indra.ai/deva.fbi": "^0.5.0",
     "mongodb": "^6.20.0"
   },
@@ -104,7 +104,7 @@
         "background": "/devas/justice/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the same time when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or on which the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED according to the LAW. \ntags: {{profile.hashtags}} \nowner: {{profile.owner}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED according to the LAW. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nowner: {{profile.owner}}",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "udpated": "Thursday, January 8, 2026 - 2:50:08 PM"
