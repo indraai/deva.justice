@@ -33,7 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.fbi@latest --save",
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.fbi@latest @indra.ai/deva.cia@latest @indra.ai/deva.nsa@latest @indra.ai/deva.dhs@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -58,7 +58,10 @@
   "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.37.3",
-    "@indra.ai/deva.fbi": "^0.5.0",
+    "@indra.ai/deva.cia": "^0.2.0",
+    "@indra.ai/deva.dhs": "^0.1.0",
+    "@indra.ai/deva.fbi": "^0.6.0",
+    "@indra.ai/deva.nsa": "^0.2.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -89,7 +92,7 @@
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DepartmentOfJustice",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DepartmentOfJustice #NOIWON.system",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "Justice system of design.",

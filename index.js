@@ -6,7 +6,18 @@
 // Thursday, January 8, 2026 - 2:50:08 PM
 
 import Deva from '@indra.ai/deva';
+
 import fbi from '@indra.ai/deva.fbi';
+// import fbi from '/Users/quinnmichaels/Dev/deva.space/devas/deva.fbi/index.js';
+
+import cia from '@indra.ai/deva.cia';
+// import cia from '/Users/quinnmichaels/Dev/deva.space/devas/deva.cia/index.js';
+
+import nsa from '@indra.ai/deva.nsa';
+// import nsa from '/Users/quinnmichaels/Dev/deva.space/devas/deva.nsa/index.js';
+
+import dhs from '@indra.ai/deva.dhs';
+// import dhs from '/Users/quinnmichaels/Dev/deva.space/devas/deva.dhs/index.js';
 
 import { MongoClient, ObjectId } from 'mongodb';
 
@@ -44,19 +55,22 @@ const JusticeDeva = new Deva({
   },
   listeners: {
     // log the exit packet when the deva exits the system
-    'devacore:exit'(packet) {
-      this.func.write_log('exit', this.lib.copy(packet));
-    },
+    // 'devacore:exit'(packet) {
+    //   this.func.write_log('exit', this.lib.copy(packet));
+    // },
     // log the answer on complete of the question and answer
-    'devacore:complete'(packet) {
-      this.func.write_log('complete', this.lib.copy(packet));
-    },
+  //   'devacore:complete'(packet) {
+  //     this.func.write_log('complete', this.lib.copy(packet));
+  //   },
   },
   modules: {
     client: false,
   },
   devas: {
-    // fbi,
+    fbi,
+    cia,
+    nsa,
+    dhs,
   },
   func: {
     /**************
