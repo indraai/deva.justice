@@ -7,6 +7,10 @@
 
 import Deva from '@indra.ai/deva';
 
+import judge from '/Users/quinnmichaels/Dev/deva.space/devas/deva.judge/index.js'
+import court from '/Users/quinnmichaels/Dev/deva.space/devas/deva.court/index.js'
+import prison from '/Users/quinnmichaels/Dev/deva.space/devas/deva.prison/index.js'
+
 import fbi from '@indra.ai/deva.fbi';
 // import fbi from '/Users/quinnmichaels/Dev/deva.space/devas/deva.fbi/index.js';
 
@@ -67,6 +71,9 @@ const JusticeDeva = new Deva({
     client: false,
   },
   devas: {
+    judge,
+    court,
+    prison,
     fbi,
     cia,
     nsa,
