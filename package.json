@@ -61,7 +61,7 @@
     "@indra.ai/deva.cia": "^0.2.0",
     "@indra.ai/deva.dhs": "^0.1.0",
     "@indra.ai/deva.fbi": "^0.6.0",
-    "@indra.ai/deva.nsa": "^0.2.0",
+    "@indra.ai/deva.nsa": "^0.2.1",
     "mongodb": "^6.20.0"
   },
   "data": {
