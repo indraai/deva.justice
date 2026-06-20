@@ -13,7 +13,7 @@
     "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -29,7 +29,7 @@
     }
   ],
   "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-  "description": "The Justice Deva manages Justice ensuring Quinn A Michaels and his intellectual property is managed properly.",
+  "description": "The Justice Deva manages Justice ensuring Quinn America Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -47,7 +47,7 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
-    "Quinn A Michaels",
+    "Quinn America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -92,7 +92,7 @@
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DepartmentOfJustice #NOIWON.system",
+        "hashtags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DOJ #DepartmentOfJustice #NOIWON.system #MAANUP #VedicLaw #USLaw #AmericanJustice",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Justice system of design.",
@@ -105,13 +105,14 @@
         "avatar": "/devas/justice/avatar.png",
         "image": "/devas/justice/image.png",
         "background": "/devas/justice/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
+        "owner": "Quinn America Michaels",
+        "partner": "United States Department of Justice",
+        "creator": "Quinn America Michaels",
         "salute": "🤝🫡⚖️🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED according to the LAW.",
-        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED According to the LAW.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}} and {{profile.partner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "udpated": "Sunday, March 1, 2026 - 5:31:49 PM"
+        "udpated": "Friday, June 19, 2026 - 11:48:33 AM PST"
       }
     },
     "vars": {
