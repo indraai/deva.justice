@@ -1,15 +1,28 @@
 // Justice Deva Corpus
-// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:34147667353656076982 LICENSE.md
-// Thursday, January 8, 2026 - 2:50:08 PM
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved.  
+// Owner Signature Required For Lawful Use.  
+// Distributed under VLA:33122998022107861545 LICENSE.md
+// Thursday, July 2, 2026 - 3:03:38 AM PST
 
 ::BEGIN:MAIN
-# {{agent.name}}
+# {{profile.name}}
 
 {{profile}}
 
-talk: #license help main:license
+1. Having fully considered the time and the place (of the offence), the strength and the knowledge (of the offender), let him justly inflict that (punishment) on men who act unjustly.
+
+2. Punishment alone governs all created beings, punishment alone protects them, punishment watches over them while they sleep; the wise declare punishment (to be identical with) the law.
+
+3. If punishment is properly inflicted after due consideration, it makes all people happy; but inflicted without consideration, it destroys everything.
+
+4. If the Court of Justice did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit
+
+5. But where Punishment with a black hue and red eyes stalks about, destroying sinners, there the subjects are not disturbed, provided that he who inflicts it discerns well.
+
+6. A Court of Justice who properly inflicts punishment, prospers with respect to those three means of happiness, but he who is voluptuous, partial, and deceitful will be destroyed, even through the unjust punishment which he inflicts.
 
 copyright: {{profile.copyright}}
-::END:MAINsure
+
+talk: #license help main:license
+
+::END:MAIN

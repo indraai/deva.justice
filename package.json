@@ -1,16 +1,31 @@
 {
-  "id": "34147667353656076982",
+  "id": "33122998022107861545",
   "name": "@indra.ai/deva.justice",
   "version": "0.16.4",
-  "license": "VLA:34147667353656076982 LICENSE.md",
+  "license": "VLA:33122998022107861545 LICENSE.md",
   "VLA": {
-    "uid": "34147667353656076982",
-    "time": 1767912608629,
-    "date": "Thursday, January 8, 2026 - 2:50:08 PM",
-    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
-    "license": "44486733861528360966",
-    "fingerprint": "p1H5ayfBseOKx0mCh7LgaI6KXwYy6ALwvU/SkhO0RpU=",
-    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
+    "uid": "33122998022107861545",
+    "time": 1782986618168,
+    "iso": "2026-07-02T10:03:38.168Z",
+    "utc": "Thu, 02 Jul 2026 10:03:38 GMT",
+    "date": "Thursday, July 2, 2026 - 3:03:38 AM",
+    "license": "44105372688502635039",
+    "fingerprint": "GY99/6ZQmegkZozp7nUYx1ARqKFCXvQ9jEjCqmQvcus=",
+    "client": "Lnk2dmiRimE2u1Uzz1Q1miRH6As+SMU2XT3P7ysYWwY=",
+    "agent": "B2/eAuVDDKu97KsbVHo0NDbCHMnr/Qo45qfqUHjzVaA=",
+    "machine": "APIOBCS3cQoB5QKh3FdoyatRiY5KGmmgzvVpYG+jX0A=",
+    "core_hash": "b9AhxZJWnMEpWbjaojwNvFousIaK9CIbzcabyMnaEaU=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Use of License Deva constitutes ACKNOWLEDGMENT of and AGREEMENT to OPERATE ACCORDING to the LAWS of the VEDIC RELIGION, UNITED STATES OF AMERICA, and all APPLICABLE FEDERAL, STATE, LOCAL, and MILITARY LAWS.",
+    "vectors": "#Quinn #QuinnAmericaAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "owner": "Quinn America Michaels",
+    "creator": "Quinn America Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
+    "md5": "7HXeBChUee63AG9HkxX/rg==",
+    "sha256": "yCA9GJS/h5ETo3KuqkZIABe+w4q8dcwOq1LlBqSGvbY=",
+    "sha512": "OKQiV0RHqaDsafkc7WO3c7FXU2gVRZNB9YvVHco6Qp1YgshxcKDXMKsUaLu3Q19q25HVvOP8aP4PRlPzV49O2g=="
   },
   "author": {
     "name": "Quinn America Michaels",
@@ -28,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
   "description": "The Justice Deva manages Justice ensuring Quinn America Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -47,6 +62,8 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
+    "Quinn A Michaels",
     "Quinn America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
@@ -57,7 +74,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.3",
+    "@indra.ai/deva": "^1.44.2",
     "@indra.ai/deva.cia": "^0.2.0",
     "@indra.ai/deva.dhs": "^0.1.0",
     "@indra.ai/deva.fbi": "^0.6.0",
@@ -66,7 +83,7 @@
   },
   "data": {
     "agent": {
-      "id": "67950743226445647065",
+      "id": "33122998022107861545",
       "key": "justice",
       "prompt": {
         "emoji": "⚖️",
@@ -85,19 +102,19 @@
         }
       },
       "profile": {
-        "id": "17109094444587796623",
+        "id": "33122998022107861545",
         "name": "Justice Deva",
-        "hashtag": "#JusticeDeva",
+        "vector": "#JusticeDeva",
         "title": "Justice Deva",
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "hashtags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DOJ #DepartmentOfJustice #AttorneyGeneral #NOIWON.system #MAANUP #VedicLaw #USLaw #AmericanJustice",
+        "vectors": "#Quinn #QuinnAmericaMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DOJ #DepartmentOfJustice #AttorneyGeneral #NOIWON.system #MAANUP #VedicLaw #USLaw #AmericanJustice",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Justice system of design.",
         "voice": "onyx",
-        "system": "Deva.world.justice",
+        "system": "Indra.ai.justice",
         "layout": "default",
         "color": "rgb(255,145,79)",
         "bgcolor": "var(--color-darkest-grey)",
@@ -109,10 +126,10 @@
         "partner": "U.S. Department of Justice",
         "creator": "Quinn America Michaels",
         "salute": "🤝🫡⚖️🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED According to the ESTABLISHED RULE of LAW.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED ACCORDING to the ESTABLISHED RULE of LAW.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}} and {{profile.partner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "udpated": "Friday, June 19, 2026 - 11:48:33 AM PST"
+        "udpated": "Thursday, July 2, 2026 - 3:03:38 AM PST"
       }
     },
     "vars": {
