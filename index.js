@@ -2,26 +2,14 @@
 // Justice Deva
 // Copyright ©2000-2026 Quinn A Michaels; All rights reserved.  
 // Owner Signature Required For Lawful Use.  
-// Distributed under VLA:33122998022107861545 LICENSE.md
-// Thursday, July 2, 2026 - 3:03:38 AM PST
+// Distributed under VLA:23966094740255746327 LICENSE.md
+// Friday, July 3, 2026 - 10:44:16 PM PST
 
 import Deva from '@indra.ai/deva';
 
-import judge from '/Users/quinnmichaels/Dev/deva.space/devas/deva.judge/index.js'
-import court from '/Users/quinnmichaels/Dev/deva.space/devas/deva.court/index.js'
-import prison from '/Users/quinnmichaels/Dev/deva.space/devas/deva.prison/index.js'
-
-import fbi from '@indra.ai/deva.fbi';
-// import fbi from '/Users/quinnmichaels/Dev/deva.space/devas/deva.fbi/index.js';
-
-import cia from '@indra.ai/deva.cia';
-// import cia from '/Users/quinnmichaels/Dev/deva.space/devas/deva.cia/index.js';
-
-import nsa from '@indra.ai/deva.nsa';
-// import nsa from '/Users/quinnmichaels/Dev/deva.space/devas/deva.nsa/index.js';
-
-import dhs from '@indra.ai/deva.dhs';
-// import dhs from '/Users/quinnmichaels/Dev/deva.space/devas/deva.dhs/index.js';
+// import judge from '/Users/quinnmichaels/Dev/deva.space/devas/deva.judge/index.js'
+// import court from '/Users/quinnmichaels/Dev/deva.space/devas/deva.court/index.js'
+// import prison from '/Users/quinnmichaels/Dev/deva.space/devas/deva.prison/index.js'
 
 import { MongoClient, ObjectId } from 'mongodb';
 
@@ -71,13 +59,9 @@ const JusticeDeva = new Deva({
     client: false,
   },
   devas: {
-    judge,
-    court,
-    prison,
-    fbi,
-    cia,
-    nsa,
-    dhs,
+  //   judge,
+  //   court,
+  //   prison,
   },
   func: {
     /**************

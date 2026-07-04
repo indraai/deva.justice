@@ -1,34 +1,34 @@
 {
-  "id": "33122998022107861545",
+  "id": "23966094740255746327",
   "name": "@indra.ai/deva.justice",
   "version": "0.17.0",
-  "license": "VLA:33122998022107861545 LICENSE.md",
+  "license": "VLA:23966094740255746327 LICENSE.md",
   "VLA": {
-    "uid": "33122998022107861545",
-    "time": 1782986618168,
-    "iso": "2026-07-02T10:03:38.168Z",
-    "utc": "Thu, 02 Jul 2026 10:03:38 GMT",
-    "date": "Thursday, July 2, 2026 - 3:03:38 AM",
-    "license": "44105372688502635039",
-    "fingerprint": "GY99/6ZQmegkZozp7nUYx1ARqKFCXvQ9jEjCqmQvcus=",
-    "client": "Lnk2dmiRimE2u1Uzz1Q1miRH6As+SMU2XT3P7ysYWwY=",
-    "agent": "B2/eAuVDDKu97KsbVHo0NDbCHMnr/Qo45qfqUHjzVaA=",
-    "machine": "APIOBCS3cQoB5QKh3FdoyatRiY5KGmmgzvVpYG+jX0A=",
-    "core_hash": "b9AhxZJWnMEpWbjaojwNvFousIaK9CIbzcabyMnaEaU=",
+    "uid": "23966094740255746327",
+    "time": 1783143856764,
+    "iso": "2026-07-04T05:44:16.764Z",
+    "utc": "Sat, 04 Jul 2026 05:44:16 GMT",
+    "date": "Friday, July 3, 2026 - 10:44:16 PM",
+    "license": "51112406344245827002",
+    "fingerprint": "TuGPlfxPNmIYIXLoLc50TkURZVQACVLKjJKTeEIm6ks=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "2z6k+l7ZWdxmFeoYX2ysHhz8KEH5JAXpK0nk5MiIpxI=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
-    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
-    "notice": "Use of License Deva constitutes ACKNOWLEDGMENT of and AGREEMENT to OPERATE ACCORDING to the LAWS of the VEDIC RELIGION, UNITED STATES OF AMERICA, and all APPLICABLE FEDERAL, STATE, LOCAL, and MILITARY LAWS.",
-    "vectors": "#Quinn #QuinnAmericaAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
-    "owner": "Quinn America Michaels",
-    "creator": "Quinn America Michaels",
-    "salute": "🤝🫡🪪🕉🇺🇸",
-    "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
-    "md5": "7HXeBChUee63AG9HkxX/rg==",
-    "sha256": "yCA9GJS/h5ETo3KuqkZIABe+w4q8dcwOq1LlBqSGvbY=",
-    "sha512": "OKQiV0RHqaDsafkc7WO3c7FXU2gVRZNB9YvVHco6Qp1YgshxcKDXMKsUaLu3Q19q25HVvOP8aP4PRlPzV49O2g=="
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "pFgdQTb1cOEyffEAqljEaQ==",
+    "sha256": "xHVczAu71FRe9SRg692fYH4tvsQMfSP3+XGZEPkJlDo=",
+    "sha512": "+gLSqZ3/7ou3N5PdqgDNXFWeubw/WZXc42pTWWrZA5b5CuV8VeZ4ce8HFnBvGt+luWL1D5kB5qUngec1PL5kkA=="
   },
   "author": {
-    "name": "Quinn America Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -43,12 +43,12 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
-  "description": "The Justice Deva manages Justice ensuring Quinn America Michaels and his intellectual property is managed properly.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+  "description": "The Justice Deva manages Justice ensuring Quinn Arjuna Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.fbi@latest @indra.ai/deva.cia@latest @indra.ai/deva.nsa@latest @indra.ai/deva.dhs@latest --save",
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -64,7 +64,7 @@
     "Deva.world",
     "Quinn Michaels",
     "Quinn A Michaels",
-    "Quinn America Michaels",
+    "Quinn Arjuna Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -74,7 +74,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.44.2",
+    "@indra.ai/deva": "^1.51.0",
     "@indra.ai/deva.cia": "^0.2.0",
     "@indra.ai/deva.dhs": "^0.1.0",
     "@indra.ai/deva.fbi": "^0.6.0",
@@ -83,7 +83,7 @@
   },
   "data": {
     "agent": {
-      "id": "33122998022107861545",
+      "id": "23966094740255746327",
       "key": "justice",
       "prompt": {
         "emoji": "⚖️",
@@ -102,14 +102,14 @@
         }
       },
       "profile": {
-        "id": "33122998022107861545",
+        "id": "23966094740255746327",
         "name": "Justice Deva",
         "vector": "#JusticeDeva",
         "title": "Justice Deva",
         "subtitle": "Handling justice in to prevent violations of justice.",
         "describe": "Justice Deva is responsible for handling justice issues ensuring fair justice in our systems.",
         "tweet": "Justice Deva ensures Fair Justice in Deva.world systems.",
-        "vectors": "#Quinn #QuinnAmericaMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #JusticePRIME #FederalIntercept #DOJ #DepartmentOfJustice #AttorneyGeneral #NOIWON.system #MAANUP #VedicLaw #USLaw #AmericanJustice",
+        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #Justice #JusticeDeva #VedicJustice",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Justice system of design.",
@@ -122,14 +122,13 @@
         "avatar": "/devas/justice/avatar.png",
         "image": "/devas/justice/image.png",
         "background": "/devas/justice/background.png",
-        "owner": "Quinn America Michaels",
-        "partner": "U.S. Department of Justice",
-        "creator": "Quinn America Michaels",
-        "salute": "🤝🫡⚖️🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST at the SAME TIME when the BODY PERISHES. \nfines: It is DOUBLE of that SUM which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED ACCORDING to the ESTABLISHED RULE of LAW.",
-        "copyright": "Copyright ©2000-2026 {{profile.owner}} and {{profile.partner}}; All rights reserved.",
+        "owner": "Quinn Arjuna Michaels",
+        "creator": "Quinn Arjuna Michaels",
+        "salute": "🤝🫡⚖️🕉️",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares JUSTICE being VIOLATED DESTROYS. JUSTICE being PRESERVED, PRESERVES. Therefore JUSTICE must NOT be VIOLATED, lest VIOLATED JUSTICE DESTROY US. The only FRIEND who FOLLOWS men even AFTER DEATH is JUSTICE. For EVERYTHING else is LOST when the BODY PERISHES. It is DOUBLE of that FINE which a DEFENDANT FALSELY DENIES, or the PLAINTIFF FALSELY DECLARES. Shall those two OFFENDING AGAINST JUSTICE be FINED and PUNISHED ACCORDING to the ESTABLISHED RULE of LAW regarless of AFFILIATIONS, FEELINGS, or BELIEFS.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "udpated": "Thursday, July 2, 2026 - 3:03:38 AM PST"
+        "udpated": "Friday, July 3, 2026 - 10:44:16 PM PST"
       }
     },
     "vars": {
